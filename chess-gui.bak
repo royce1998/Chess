@@ -1,0 +1,8 @@
+#lang typed/racket
+(require typed/test-engine/racket-tests)
+(require "../uchicago151/uchicago151.rkt")
+(require "../uchicago151/uc151image.rkt")
+(require "../project2/option.rkt")
+(require "../project2/loc.rkt")
+(require "../project2/project2_reference_v0.rkt")
+
